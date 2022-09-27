@@ -3,7 +3,7 @@ Reading journal for Code Fellows
 
 Hello and welcome to my notes. My name is Matt, and I'm excited to become a web developer![^1] If you're here you can probably find my GitHhub portfolio, but just in case you want a reminder:
 
-Link to My GitHub Portfolio: [https://github.com/matthew-c-austin]
+[Link to My GitHub Portfolio](https://github.com/matthew-c-austin)
 
 ## Growth Mindset
 To me a growth mindset is the philosophy that intelligence is not fixed; it is dynamic and can be improved through effort and commitment. Like Jake the Dog says,
