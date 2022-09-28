@@ -15,4 +15,7 @@ To me a growth mindset is the philosophy that intelligence is not fixed; it is d
 - A belief in improvement helps you overcome obstacles and improve.
 - Success relies on persistence and coping with failures in a healthy way.
 
+[Class 1 Reading Notes](Read-01-Learning-Markdown.md)
+[Class 2 Reading Notes](Read-02-The-Coders-Computer.md)
+
 [^1]: You can see the excitement conveyed in the exclamation mark.
