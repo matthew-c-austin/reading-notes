@@ -1,4 +1,5 @@
 # Git Tutorial
+
 [Udemy Blog](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/#7_2)
 
 ## Version Control
@@ -36,7 +37,6 @@ Files in Git can reside in three main states: commited, modified, and staged.
 - **Staged**: Flagged a file's changed version to be committed in the next snapshot
 
 ![Git States](https://blog.udemy.com/wp-content/uploads/2015/08/image066.png)
-
 
 Each commit has a label that points to it
 HEAD = The label meaning "You are Here"
