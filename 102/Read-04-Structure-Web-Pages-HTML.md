@@ -6,7 +6,7 @@
 
 ### What is a Wireframe?
 
-UX designers used wireframes to define and plan information heirarchy for websites, apps, or products. The process focuses on how the designer or client wants the user to process information on a site, based on the user research already performed by the UX design team.
+UX designers used wireframes to define and plan information hierarchy for websites, apps, or products. The process focuses on how the designer or client wants the user to process information on a site, based on the user research already performed by the UX design team.
 
 - It is in plain black and white, without code
 - No colors or typeface choices lets you plan without distraction
