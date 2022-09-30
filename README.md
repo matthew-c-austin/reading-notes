@@ -16,4 +16,6 @@ Hello and welcome to my notes. My name is Matt, and I'm excited to become a web 
 
 [Class 3 Reading Notes](/102/Read-03-Revisions-and-the-Cloud.md)
 
+[Class 4 Reading Notes](/102/Read-04-Structure-Web-Pages-HTML.md)
+
 [^1]: You can see the excitement conveyed in the exclamation mark.
