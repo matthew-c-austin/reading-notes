@@ -38,7 +38,7 @@ A CSS stylesheet will contain many such rules, written one after the other.
 
 As there are so many things that you could style using CSS, the language is broken down into *modules*. You'll see reference to these modules as you explore MDN.
 
-### CSS Specifciations
+### CSS Specifications
 
 All web standards technologies (HTML, CSS, JavaScript, etc.) are defined in giant documents called specifications (or "specs"), which are published by standards organizations (such as the W3C, WHATWG, ECMA, or Khronos) and define precisely how those technologies are supposed to behave.
 
@@ -48,7 +48,7 @@ New CSS features are developed or specified by the CSS Working Group — sometim
 
 ### Browser Support Information
 
-After a CSS features has been specified, it is rarely implemented in all browsers at once. The MDN CSS property pages have "Browser compatability" tables to consult for implementation status.
+After a CSS features has been specified, it is rarely implemented in all browsers at once. The MDN CSS property pages have "Browser compatibility" tables to consult for implementation status.
 
 ## How to add CSS
 
