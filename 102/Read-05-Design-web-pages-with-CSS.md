@@ -1,6 +1,6 @@
 # Design Web Pages with CSS
 
-[What s CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
+[What is CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
 
 ## What is CSS and What is it for?
 
