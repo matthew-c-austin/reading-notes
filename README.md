@@ -18,8 +18,8 @@ Hello and welcome to my notes. My name is Matt, and I'm excited to become a web 
 
 [Class 4 Reading Notes - Structure Web Pages With HTML](/102/Read-04-Structure-Web-Pages-HTML.md)
 
-[Class 5 Reading Notes - Design Web Pages With CSS](/102/Read-05-Desgin-web-pages-with-CSS)
+[Class 5 Reading Notes - Design Web Pages With CSS](102/Read-05-Design-web-pages-with-CSS.md)
 
-[Class 6 Reading Notes - Dynamic Web Pages With Javascript](/102/Read-06-Dynamic-web-pages-with-JavaScript)
+[Class 6 Reading Notes - Dynamic Web Pages With Javascript](/102/Read-06-Dynamic-web-pages-with-JavaScript.md)
 
 [^1]: You can see the excitement conveyed in the exclamation mark.
