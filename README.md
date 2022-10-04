@@ -22,4 +22,6 @@ Hello and welcome to my notes. My name is Matt, and I'm excited to become a web 
 
 [Class 6 Reading Notes - Dynamic Web Pages With Javascript](/102/Read-06-Dynamic-web-pages-with-JavaScript.md)
 
+[Class 7 Reading Notes - Programming With JavaScript](102/Read-07-Programming-with-JavaScript.md)
+
 [^1]: You can see the excitement conveyed in the exclamation mark.
