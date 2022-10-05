@@ -24,4 +24,6 @@ Hello and welcome to my notes. My name is Matt, and I'm excited to become a web 
 
 [Class 7 Reading Notes - Programming With JavaScript](102/Read-07-Programming-with-JavaScript.md)
 
+[Class 8 Reading Notes - Operators and Loops](102/Read-08-Operators-and-Loops.md)
+
 [^1]: You can see the excitement conveyed in the exclamation mark.
