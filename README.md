@@ -8,7 +8,7 @@ Hello and welcome to my notes. My name is Matt, and I'm excited to become a web 
 
 ## Links to Reading Notes
 
-### Code 201
+### Code 201 Reading Notes
 
 [Class 1 Reading Notes](201/class-01.md)
 
@@ -40,7 +40,7 @@ Class 14 Reading Notes
 
 Class 15 Reading Notes
 
-### Code 102
+### Code 102 Reading Notes
 
 [Class 1 Reading Notes - Learning Markdown](/102/Read-01-Learning-Markdown.md)
 
