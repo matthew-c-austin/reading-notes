@@ -67,7 +67,7 @@ let myVariable = 10;
 
 **Q:** What is a `Variable` and why are they important in JavaScript?
 
-**A:** Variables are containers that store values. You can declare, assign initial values, change their values, their data types, and more.They are necessary to do anything interesting in programming. They allow dynamic actions within your code.
+**A:** Variables are containers that store values. You can declare, assign initial values, change their values, their data types, and more. They are necessary to do anything interesting in programming. They allow dynamic actions within your code.
 
 ## [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
 
