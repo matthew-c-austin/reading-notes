@@ -4,7 +4,9 @@ This reading digs deeper into the basics of HTML, CSS, and JavaScript. For HTML 
 
 For CSS we learn about how to avoid inline styling, as well as some of the terminology for the structure of CSS (selector, declarations, properties, values)
 
-For JavaScript we learn about comparison operators in detail, as well as general operators
+For JavaScript we learn about comparison operators in detail, as well as general operators.
+
+There was also an article on git commit messages and how to properly write them. See here [git-commit](https://cbea.ms/git-commit/)
 
 ## Learn HTML
 
@@ -121,3 +123,5 @@ For JavaScript we learn about comparison operators in detail, as well as general
 ## Things I want to know more about
 
 1. Is there any reason you wouldn't use strict equality? Just as a way to prevent trouble with an already dynamic and weakly typed language.
+2. In the real world, are switch statements frowned on? I saw some Reddit post that said polymorphism in OOP should be used to refactor anywhere with switch statements.
+3. Can we see how to modify the git editor to have text wrapping at 72 characters? Or is there a method that is recommended?
