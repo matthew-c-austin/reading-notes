@@ -18,7 +18,7 @@ Hello and welcome to my notes. My name is Matt, and I'm excited to become a web 
 
 [Class 4 Reading Notes](201/class-04.md)
 
-Class 5 Reading Notes
+[Class 5 Reading Notes](201/class-05.md)
 
 Class 6 Reading Notes
 
