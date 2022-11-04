@@ -22,7 +22,7 @@ Hello and welcome to my notes. My name is Matt, and I'm excited to become a web 
 
 [Class 6 Reading Notes](201/class-06.md)
 
-Class 7 Reading Notes
+[Class 7 Reading Notes](201/class-07.md)
 
 Class 8 Reading Notes
 
