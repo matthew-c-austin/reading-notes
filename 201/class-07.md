@@ -1,6 +1,6 @@
 # Reflections
 
-XXX
+This reading was a lot longer than the others so far, likely because it packs a lot of new (to me) concepts in. I didn't really appreciate the wording in the final reading. It was constantly calling out the reader saying oh I bet you think this is so simple, when in my case it was the first time I saw it. A little disheartening as a comparison against other people in the field looking for employment.
 
 ## Reading
 
@@ -22,7 +22,7 @@ XXX
     `<tr>` is a table row, where each `<td>` is placed
     `<th>` is a table header, which is the first row header that makes it easier to find data we're looking for, and they also make tables more accessible to screen readers by associating all data in the column with the header.
 
-[Introducing Constrtuctors](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics#introducing_constructors)
+[Introducing Constructors](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics#introducing_constructors)
 
 1. What is a constructor and what are some advantages to using it?
 
