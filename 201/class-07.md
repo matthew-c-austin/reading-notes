@@ -35,7 +35,7 @@ return the new object.
 
 2. How does the term this differ when used in an object literal versus when used in a constructor?
 
-    It doesn't? They both refer to the object in question.
+    In an object literal `this` refers to the current object in question. In a constructor `this` refers to the constructor, which can be used to refer to this when creating an new instance of an object with that constructor.
 
 [Object Prototypes Using a Constructor](https://ui.dev/beginners-guide-to-javascript-prototype)
 
