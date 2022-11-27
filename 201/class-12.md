@@ -4,7 +4,7 @@ Charts! Working with data and how to communicate it is pretty important in my jo
 
 ## Reading
 
-[JavaSCript Canvas](https://www.javascripttutorial.net/web-apis/javascript-canvas/)
+[JavaScript Canvas](https://www.javascripttutorial.net/web-apis/javascript-canvas/)
 
 1. What does the `<canvas>` allow a developer to acheive?
 
