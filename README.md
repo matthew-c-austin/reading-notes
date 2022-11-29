@@ -38,7 +38,7 @@ Hello and welcome to my notes. My name is Matt, and I'm excited to become a web 
 
 [Class 14 Reading Notes](201/class-14.md)
 
-Class 15 Reading Notes
+[Class 15 Reading Notes](201/class-15.md)
 
 ### Code 102 Reading Notes
 
