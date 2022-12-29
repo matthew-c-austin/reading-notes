@@ -58,7 +58,7 @@ Hello and welcome to my notes. My name is Matt, and I'm excited to become a web 
 
 ## Code 301 - Intermediate Software Development
 
-[Class 1 Reading Notes]()
+[Class 1 Reading Notes](301/class-01.md)
 
 [Class 2 Reading Notes]()
 
