@@ -65,3 +65,7 @@
 [React Docs - Rendering elements](https://reactjs.org/docs/rendering-elements.html)
 
 [React Docs - Components and props](https://reactjs.org/docs/components-and-props.html)
+
+## Things I want to know more about
+
+1. I'm interested in the history of React and how JSX is parsed during compilation. How does React work under the hood?
