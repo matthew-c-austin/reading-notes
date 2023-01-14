@@ -62,7 +62,7 @@ Hello and welcome to my notes. My name is Matt, and I'm excited to become a web 
 
 [Class 2 Reading Notes](301/class-02.md)
 
-[Class 3 Reading Notes]()
+[Class 3 Reading Notes](301/class-03.md)
 
 [Class 4 Reading Notes]()
 
