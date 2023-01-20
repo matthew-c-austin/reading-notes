@@ -42,4 +42,4 @@ x===y ? console.log(true) : console.log(false);
 
 ## Things I want to know more about
 
-1. Is it more common to use the ternary or short circut evaluation in React?
+1. Is it more common to use the ternary or short circuit evaluation in React?
