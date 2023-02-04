@@ -36,7 +36,7 @@
 
 9. What status code does an unsuccessful GET request return?
 
-    Depends. 404 for no found resource, 204 if teh body included in the response is empty.
+    Depends. 404 for no found resource, 204 if the body included in the response is empty.
 
 10. What status code does a successful POST request return?
 
