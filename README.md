@@ -78,7 +78,7 @@ Hello and welcome to my notes. My name is Matt, and I'm excited to become a web 
 
 [Class 10 Reading Notes](301/class-10.md)
 
-[Class 11 Reading Notes]()
+[Class 11 Reading Notes](301/class-11.md)
 
 [Class 12 Reading Notes]()
 
