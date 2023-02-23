@@ -84,8 +84,8 @@ Hello and welcome to my notes. My name is Matt, and I'm excited to become a web 
 
 [Class 13 Reading Notes](301/class-13.md)
 
-[Class 14 Reading Notes]()
+[Class 14 Reading Notes](301/class-14.md)
 
-[Class 15 Reading Notes]()
+[Class 15 Reading Notes](301/class-15.md)
 
 [^1]: You can see the excitement conveyed in the exclamation mark.
