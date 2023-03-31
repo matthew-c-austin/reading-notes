@@ -88,4 +88,70 @@ Hello and welcome to my notes. My name is Matt, and I'm excited to become a web 
 
 [Class 15 Reading Notes](301/class-15.md)
 
+## Code 401 - Advanced Software Development
+
+[Prework - SQL Practice](401/prework-sql.md)
+
+[Prework - CLI Practice](401/prework-cli.md)
+
+[Class 1 Reading Notes]()
+
+[Class 2 Reading Notes]()
+
+[Class 3 Reading Notes]()
+
+[Class 4 Reading Notes]()
+
+[Class 5 Reading Notes]()
+
+[Class 6 Reading Notes]()
+
+[Class 7 Reading Notes]()
+
+[Class 8 Reading Notes]()
+
+[Class 9 Reading Notes]()
+
+[Class 10 Reading Notes]()
+
+[Class 11 Reading Notes]()
+
+[Class 12 Reading Notes]()
+
+[Class 13 Reading Notes]()
+
+[Class 14 Reading Notes]()
+
+[Class 15 Reading Notes]()
+
+[Class 16 Reading Notes]()
+
+[Class 17 Reading Notes]()
+
+[Class 18 Reading Notes]()
+
+[Class 19 Reading Notes]()
+
+[Class 20 Reading Notes]()
+
+[Class 21 Reading Notes]()
+
+[Class 22 Reading Notes]()
+
+[Class 23 Reading Notes]()
+
+[Class 24 Reading Notes]()
+
+[Class 25 Reading Notes]()
+
+[Class 26 Reading Notes]()
+
+[Class 27 Reading Notes]()
+
+[Class 28 Reading Notes]()
+
+[Class 29 Reading Notes]()
+
+[Class 30 Reading Notes]()
+
 [^1]: You can see the excitement conveyed in the exclamation mark.
