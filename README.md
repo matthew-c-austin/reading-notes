@@ -94,6 +94,8 @@ Hello and welcome to my notes. My name is Matt, and I'm excited to become a web 
 
 [Prework - CLI Practice](401/prework-cli.md)
 
+[Prework - The Growth Mindset](401/prework-growth-mindset.md)
+
 [Class 1 Reading Notes]()
 
 [Class 2 Reading Notes]()
