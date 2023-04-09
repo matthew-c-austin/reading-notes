@@ -40,7 +40,7 @@ If we want to retrieve absolutely all the columns of data from a table, we can t
 
 This query, in particular, is really useful because it's a simple way to inspect a table by dumping all the data at once.
 
-![Lesson 1 Exercises](/images/401/prework-sql/lesson-1.PNG)
+![Lesson 1 Exercises](images/401/prework-sql/lesson-1.PNG)
 
 ### Lesson 2: Queries with constraints (Pt. 1)
 
@@ -64,7 +64,7 @@ WHERE condition
 
 *As you might have noticed by now, SQL doesn't require you to write the keywords all capitalized, but as a convention, it helps people distinguish SQL keywords from column and tables names, and makes the query easier to read.*
 
-![Lesson 2 Exercises](/images/401/prework-sql/lesson-2.PNG)
+![Lesson 2 Exercises](images/401/prework-sql/lesson-2.PNG)
 
 ### Lesson 3 - Queries with constraints (Pt. 2)
 
@@ -83,7 +83,7 @@ When writing `WHERE` clauses with columns containing text data, SQL supports a n
 
 While most database implementations are quite efficient when using these operators, full-text search is best left to dedicated libraries like **Apache Lucene** or **Sphinx**. These libraries are designed specifically to do full text search, and as a result are more efficient and can support a wider variety of search features including internationalization and advanced queries.
 
-![Lesson 3 Exercises](/images/401/prework-sql/lesson-3.PNG)
+![Lesson 3 Exercises](images/401/prework-sql/lesson-3.PNG)
 
 ### Lesson 4 - Filtering and Sorting Query Results
 
@@ -117,7 +117,7 @@ ORDER BY column ASC/DESC
 LIMIT num_limit OFFSET num_offset;
 ```
 
-![Lesson 4 Exercises](/images/401/prework-sql/lesson-4.PNG)
+![Lesson 4 Exercises](images/401/prework-sql/lesson-4.PNG)
 
 ### Lesson  5 - Simple SELECT Queries Review
 
@@ -130,7 +130,7 @@ ORDER BY column ASC/DESC
 LIMIT num_limit OFFSET num_offset;
 ```
 
-![Lesson 5 Exercises](/images/401/prework-sql/lesson-5.PNG)
+![Lesson 5 Exercises](images/401/prework-sql/lesson-5.PNG)
 
 ### Lesson 6 - Multi-table queries with JOINs
 
@@ -154,7 +154,7 @@ _Did you know?_
 
 You might see queries where the `INNER JOIN` is written simply as a `JOIN`. These two are equivalent, but we will continue to refer to these joins as inner-joins because they make the query easier to read once you start using other types of joins, which will be introduced in the following lesson.
 
-![Lesson 6 Exercises](/images/401/prework-sql/lesson-6.PNG)
+![Lesson 6 Exercises](images/401/prework-sql/lesson-6.PNG)
 
 ### Lesson 13 - Inserting Rows
 
@@ -176,7 +176,7 @@ VALUES (value_or_expr, another_value_or_expr, …),
 
 In some cases, if you have incomplete data and the table contains columns that support default values, you can insert rows with only the columns of data you have by specifying them explicitly.
 
-![Lesson 13 Exercises](/images/401/prework-sql/lesson-13.PNG)
+![Lesson 13 Exercises](images/401/prework-sql/lesson-13.PNG)
 
 ### Lesson 14 - Updating Rows
 
@@ -198,7 +198,7 @@ Most people working with SQL will make mistakes updating data at one point or an
 
 One helpful tip is to always write the constraint first and test it in a `SELECT` query to make sure you are updating the right rows, and only then writing the column/value pairs to update.
 
-![Lesson 14 Exercises](/images/401/prework-sql/lesson-14.PNG)
+![Lesson 14 Exercises](images/401/prework-sql/lesson-14.PNG)
 
 ### Lesson 15 - Deleting Rows
 
@@ -211,7 +211,7 @@ WHERE condition;
 
 If you decide to leave out the WHERE constraint, then all rows are removed, which is a quick and easy way to clear out a table completely (if intentional).
 
-![Lesson 15 Exercises](/images/401/prework-sql/lesson-15.PNG)
+![Lesson 15 Exercises](images/401/prework-sql/lesson-15.PNG)
 
 ### Lesson 16 - Creating Tables
 
@@ -264,7 +264,7 @@ CREATE TABLE movies (
 );
 ```
 
-![Lesson 16 Exercises](/images/401/prework-sql/lesson-16.PNG)
+![Lesson 16 Exercises](images/401/prework-sql/lesson-16.PNG)
 
 ### Lesson 17 - Altering Tables
 
@@ -294,7 +294,7 @@ ALTER TABLE mytable
 RENAME TO new_table_name;
 ```
 
-![Lesson 17 Exercises](/images/401/prework-sql/lesson-17.PNG)
+![Lesson 17 Exercises](images/401/prework-sql/lesson-17.PNG)
 
 ### Lesson 18 - Dropping Tables
 
@@ -304,4 +304,4 @@ Like the `CREATE TABLE` statement, the database may throw an error if the specif
 
 In addition, if you have another table that is dependent on columns in table you are removing (for example, with a `FOREIGN KEY` dependency) then you will have to either update all dependent tables first to remove the dependent rows or to remove those tables entirely.
 
-![Lesson 18 Exercises](/images/401/prework-sql/lesson-18.PNG)
+![Lesson 18 Exercises](images/401/prework-sql/lesson-18.PNG)
