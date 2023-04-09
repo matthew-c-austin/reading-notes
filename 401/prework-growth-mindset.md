@@ -2,11 +2,11 @@
 
 This reading assignment lays the foundation for the mindset that is required for success in this course. Though it's been included in previous classes, I'm taking special note of the deliberate headspace described in each. A daytime course in a brand new language at the 401 level is going to take a lot out of me, and I need to be prepared for it.
 
-## Readings
+## Reading
 
 [Upgrade Your Technical Skills with Deliberate Practice](https://web.archive.org/web/20160616225417/http://www.happybearsoftware.com/upgrade-your-technical-skills-with-deliberate-practice)
 
-### Readings Summary
+### Reading Summary
 
 Deliberate practice is a focused approach to learning and mastering a specific skill by breaking it down into smaller, manageable components, and working on them with purposeful effort, repetition, and feedback. It is an effective way to improve one's technical skills and achieve expertise in any domain. It's also about reaching outside your comfort zone to drill down into arenas that you are not comfortable in.
 
