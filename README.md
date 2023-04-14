@@ -96,6 +96,10 @@ Hello and welcome to my notes. My name is Matt, and I'm excited to become a web 
 
 [Prework - The Growth Mindset](401/prework-growth-mindset.md)
 
+[Prework - Data Structures and Algorithms](401/prework-dsa.md)
+
+[Prework - Engineering Readings](401/prework-engineering-readings.md)
+
 [Class 1 Reading Notes]()
 
 [Class 2 Reading Notes]()
