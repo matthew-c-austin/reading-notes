@@ -20,10 +20,11 @@ This reading is our first official introduction to DSA. This is the gatekeeper f
 
 1. What is 1 of the more important things you should consider when deciding which data structure is best suited to solve a particular problem?
 
-  Time complexity of the solution for operations like instertion/deletion/search/access/etc. Depending on the problem, you may prioritize one operation over another.
+    Time complexity of the solution for operations like insertion/deletion/search/access/etc. Depending on the problem, you may prioritize one operation over another.
+
 2. How can we ensure that we’ll avoid an infinite recursive call stack?
 
-  Define a well-defined base case, so that when the function encounters the base case, it should return a value directly without making more recursive calls.
+    Define a well-defined base case, so that when the function encounters the base case, it should return a value directly without making more recursive calls.
 
 ## Things I want to know more about
 
