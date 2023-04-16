@@ -100,15 +100,15 @@ Hello and welcome to my notes. My name is Matt, and I'm excited to become a web 
 
 [Prework - Engineering Readings](401/prework-engineering-readings.md)
 
-[Class 1 Reading Notes]()
+[Class 1 Reading Notes](401/class-01.md)
 
-[Class 2 Reading Notes]()
+[Class 2 Reading Notes](401/class-02.md)
 
-[Class 3 Reading Notes]()
+[Class 3 Reading Notes](401/class-03.md)
 
 [Class 4 Reading Notes]()
 
-[Class 5 Reading Notes]()
+[Linked Lists]()
 
 [Class 6 Reading Notes]()
 
