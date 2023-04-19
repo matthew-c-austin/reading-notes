@@ -108,7 +108,7 @@ Hello and welcome to my notes. My name is Matt, and I'm excited to become a web 
 
 [Class 4 Reading Notes](401/class-04.md)
 
-[Linked Lists]()
+[Linked Lists](401/class-05.md)
 
 [Class 6 Reading Notes]()
 
