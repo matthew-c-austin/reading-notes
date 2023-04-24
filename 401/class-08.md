@@ -2,7 +2,7 @@
 
 ## Reflections
 
-This reading assignment is emphasizes some best practices and rules of thumb for being a competent developer, as well as lean business practices for getting a product to market.
+This reading assignment emphasizes some best practices and rules of thumb for being a competent developer, as well as lean business practices for getting a product to market.
 
 ## Readings
 
@@ -42,3 +42,4 @@ This reading assignment is emphasizes some best practices and rules of thumb for
 ## Things I want to know more about
 
 1. Why are engineers so obsessed with acronyms? It happens in aero too, and I just never got it.
+2. The criticisms of the MVP in the Wikipedia article hold water to me. Isn't it easy for imitation if you only provide an MVP or less mature product that someone can swoop in and provide a higher quality offering to take market share?

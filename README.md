@@ -112,9 +112,9 @@ Hello and welcome to my notes. My name is Matt, and I'm excited to become a web 
 
 [Class 6 Reading Notes](401/class-06.md)
 
-[Class 8 Reading Notes]()
+[Class 8 Reading Notes](401/class-08.md)
 
-[Class 9 Reading Notes]()
+[Class 9 Reading Notes](401/class-09.md)
 
 [Stacks and Queues](401/class-10.md)
 
