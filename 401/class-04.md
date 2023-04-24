@@ -2,7 +2,7 @@
 
 ## Reflections
 
-This reading assignment introduces ojbect-oriented programming concepts in Java, which is important because Java is almost pure OO. Classes are also introduced, which is just an aspect of OO. We are also finally talking about binary and hex, which is at the root of everything going on with programming.
+This reading assignment introduces object-oriented programming concepts in Java, which is important because Java is almost pure OO. Classes are also introduced, which is just an aspect of OO. We are also finally talking about binary and hex, which is at the root of everything going on with programming.
 
 ## Readings
 
@@ -40,9 +40,9 @@ public class Student {
 
     13
 
-2. Write the number 52 in binary. Write it in hexidecimal.
+2. Write the number 52 in binary. Write it in hexadecimal.
 
-    110100,0X34
+    110100, 0X34
 
 ## Things I want to know more about
 

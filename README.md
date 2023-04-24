@@ -110,7 +110,7 @@ Hello and welcome to my notes. My name is Matt, and I'm excited to become a web 
 
 [Linked Lists](401/class-05.md)
 
-[Class 6 Reading Notes]()
+[Class 6 Reading Notes](401/class-06.md)
 
 [Class 7 Reading Notes]()
 
@@ -118,7 +118,7 @@ Hello and welcome to my notes. My name is Matt, and I'm excited to become a web 
 
 [Class 9 Reading Notes]()
 
-[Class 10 Reading Notes]()
+[Stacks and Queues](401/class-10.md)
 
 [Class 11 Reading Notes]()
 
