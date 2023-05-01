@@ -118,15 +118,15 @@ Hello and welcome to my notes. My name is Matt, and I'm excited to become a web 
 
 [Stacks and Queues](401/class-10.md)
 
-[Class 11 Reading Notes]()
+[Class 11 Reading Notes](401/class-11.md)
 
-[Class 12 Reading Notes]()
+[Class 12 Reading Notes](401/class-12.md)
 
-[Class 13 Reading Notes]()
+[Class 13 Reading Notes](401/class-13.md)
 
-[Class 14 Reading Notes]()
+[Class 14 Reading Notes](401/class-14.md)
 
-[Class 15 Reading Notes]()
+[Trees](401/class-15.md)
 
 [Class 16 Reading Notes]()
 
