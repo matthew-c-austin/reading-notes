@@ -128,13 +128,13 @@ Hello and welcome to my notes. My name is Matt, and I'm excited to become a web 
 
 [Trees](401/class-15.md)
 
-[Class 16 Reading Notes]()
+[Class 16 Reading Notes](401/class-16.md)
 
-[Class 17 Reading Notes]()
+[Class 17 Reading Notes](401/class-17.md)
 
-[Class 18 Reading Notes]()
+[Class 18 Reading Notes](401/class-18.md)
 
-[Class 19 Reading Notes]()
+[Class 19 Reading Notes](401/class-19.md)
 
 [Class 20 Reading Notes]()
 

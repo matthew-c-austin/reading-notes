@@ -35,6 +35,17 @@
 
 ## Big O
 
-- The Big O time complexity for inserting a new node is O(h), where h is the height of the tree.
-- The Big O time complexity for searching for a node is also O(h).
-- The Big O space complexity for a well-balanced BST is O(log n). In the worst case (a completely unbalanced tree), the space complexity is O(n).
+- Time complexity for inserting:
+  - Worst case: O(n) (unbalanced tree)
+  - Best case: O(log n) (balanced tree)
+  - Average case: O(log n)
+- Space complexity for inserting:
+  - O(1)
+- Time complexity for searching:
+  - Worst case: O(n) (unbalanced tree)
+  - Best case: O(log n) (balanced tree)
+  - Average case: O(log n)
+- Space complexity for searching:
+  - Worst case: O(n) (unbalanced tree with recursive search)
+  - Best case: O(1)
+  - Average case: O(log n) (balanced tree with recursive search)

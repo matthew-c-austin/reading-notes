@@ -1,41 +1,26 @@
-# Read: Class 14
+# Read: Class 19
 
 ## Reflections
 
-This reading assignment talks about something that is interesting to me, but seems beyond my ken: passowrd hashing, salting, and encryption algorithms.
+This reading assignment talks about purely functional programming, which is a paradigm that is sort of at odds with how we've been doing things in Java, which is very OOP-based.
 
 ## Readings
 
-[Intro to password hashing](https://auth0.com/blog/hashing-passwords-one-way-road-to-security/)
+[Purely functional programming, from Wikipedia](https://en.wikipedia.org/wiki/Purely_functional_programming)
 
-1. Define the term “hashing”.
+1. Can you change the state of a data structure using functional programming?
 
-    "Hashing" is the process of converting data (such as a password) into a fixed-length string of characters using a mathematical algorithm called a hash function. Hashing is a one-way operation, meaning that it is computationally infeasible to reverse-engineer the original data from the hash.
+    In functional programming, the state of a data structure is typically not changed directly. Instead, functional programming favors immutable data structures and pure functions that take inputs and produce outputs without modifying any global state or having side effects.
 
-2. Explain to a non-technical friend what a hash function does to a password.
+2. Define purely functional programming.
 
-   A hash function takes a password and transforms it into a scrambled string of characters. This process is like putting a message through a secret code, where the output is unique to the input but nearly impossible to reverse back to the original password.
+    Purely functional programming is a programming paradigm that emphasizes immutability, referential transparency, and the use of pure functions that do not have side effects. It involves creating and manipulating data structures using only functions, without changing the state of the program.
 
-[bcrypt overview](https://danboterhoven.medium.com/why-you-should-use-bcrypt-to-hash-passwords-af330100b861)
+3. How do you think purely functional programming will differ from the programs you’ve written so far in this course?
 
-1. What does it mean to ‘salt’ a password?
-
-    'Salting' a password means adding a random value (the 'salt') to the password before hashing it. This technique increases the security of hashed passwords by making it more difficult for an attacker to use precomputed tables (rainbow tables) or guess the password using a brute-force attack.
-
-2. What piece of information would a hacker need to access in order to find the ‘salt’ string for your passwords?
-
-    To find the 'salt' string for your passwords, a hacker would need to access the system or database where the salt values are stored, usually alongside the hashed passwords.
-
-[jBCrypt](https://www.mindrot.org/projects/jBCrypt/)
-
-1. How does the Blowfish block cipher handle the increased computation speed of new computers?
-
-    The computation cost of the algorithm is parametised, so it can be increased as computers get faster.
-
-2. What are the issue with the two most commong password hashes for Java (“Java password hash” and “Java password encryption”)?
-
-     "Java password hash" and "Java password encryption" both offer terrible advice: one uses an unsalted hash which allows reverse dictionary lookup of passwords and the other recommends reversible encryption, which is rarely needed and should only be used as a last resort.
+   Purely functional programming will differ from the programs I've written so far in this course in a few key ways. First, it will require me to think more carefully about the design of my data structures and how they are manipulated, since direct mutation of state is not allowed. Additionally, I will need to become more comfortable with higher-order functions and other functional programming constructs like closures and currying, which are used extensively in purely functional programming
 
 ## Things I want to know more about
 
-1. How much of this sort of knowledge would a backend engineer need to be intimately familiar with? Is the implementation something that infosec or ops would do, or would there be some requirements that the SDE needs to meet that is entirely up to them to match?
+1. What is an example of a purely functional language?
+2. Why are we being introduced to this concept on the last reading of the Java intro section?
