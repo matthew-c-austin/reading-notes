@@ -136,19 +136,7 @@ Hello and welcome to my notes. My name is Matt, and I'm excited to become a web 
 
 [Class 19 Reading Notes](401/class-19.md)
 
-[Class 20 Reading Notes]()
-
-[Class 21 Reading Notes]()
-
-[Class 22 Reading Notes]()
-
-[Class 23 Reading Notes]()
-
-[Class 24 Reading Notes]()
-
-[Class 25 Reading Notes]()
-
-[Class 26 Reading Notes]()
+[Class 26 Reading Notes](401/class-26.md)
 
 [Class 27 Reading Notes]()
 
@@ -156,6 +144,30 @@ Hello and welcome to my notes. My name is Matt, and I'm excited to become a web 
 
 [Class 29 Reading Notes]()
 
-[Class 30 Reading Notes]()
+[Hash Maps]()
+
+[Class 31 Reading Notes]()
+
+[Class 32 Reading Notes]()
+
+[Class 33 Reading Notes]()
+
+[Graphs]()
+
+[Class 34 Reading Notes]()
+
+[Class 36 Reading Notes]()
+
+[Class 37 Reading Notes]()
+
+[Class 39 Reading Notes]()
+
+[Class 41 Reading Notes]()
+
+[Class 42 Reading Notes]()
+
+[Class 42 - Ethics in Tech]()
+
+[Class 43 Reading Notes]()
 
 [^1]: You can see the excitement conveyed in the exclamation mark.
