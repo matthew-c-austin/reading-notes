@@ -138,7 +138,7 @@ Hello and welcome to my notes. My name is Matt, and I'm excited to become a web 
 
 [Class 26 Reading Notes](401/class-26.md)
 
-[Class 27 Reading Notes]()
+[Class 27 Reading Notes](401/class-27.md)
 
 [Class 28 Reading Notes]()
 
