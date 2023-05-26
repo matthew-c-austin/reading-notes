@@ -144,7 +144,7 @@ Hello and welcome to my notes. My name is Matt, and I'm excited to become a web 
 
 [Class 29 Reading Notes](401/class-29.md)
 
-[Hash Maps]()
+[Hash Maps](401/class-30.md)
 
 [Class 31 Reading Notes]()
 
