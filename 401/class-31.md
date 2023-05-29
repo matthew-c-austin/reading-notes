@@ -23,4 +23,3 @@ This reading assignment talks about AWS Amplify, a service that let's you intera
 ## Things I want to know more about
 
 1. Well all of AWS, but that's not very specific.
-

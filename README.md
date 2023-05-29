@@ -148,9 +148,9 @@ Hello and welcome to my notes. My name is Matt, and I'm excited to become a web 
 
 [Class 31 Reading Notes](401/class-31.md)
 
-[Class 32 Reading Notes]()
+[Class 32 Reading Notes](401/class-32.md)
 
-[Class 33 Reading Notes]()
+[Class 33 Reading Notes](401/class-33.md)
 
 [Graphs]()
 
