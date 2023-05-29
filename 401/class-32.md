@@ -46,7 +46,7 @@ This reading assignment talks about Serverless, more info about Amplify, and an 
 
 3. Describe “serverless” to a new 301 Code Fellows student.
 
-    cloud provider dynamically manages the allocation and provisioning of servers. A serverless application runs in stateless compute containers that are event-triggered, ephemeral, and fully managed by the cloud provider.
+    "Serverless" is a cloud computing execution model where the cloud provider dynamically manages the allocation and provisioning of servers. A serverless application runs in stateless compute containers that are event-triggered, ephemeral, and fully managed by the cloud provider.
 
     In other words, the term "serverless" means developers don't need to worry about server management tasks like scaling, patching, capacity planning, etc. Instead, they can focus solely on writing code for their application, while the underlying infrastructure is handled by the cloud provider.
 
