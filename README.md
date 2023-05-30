@@ -152,7 +152,7 @@ Hello and welcome to my notes. My name is Matt, and I'm excited to become a web 
 
 [Class 33 Reading Notes](401/class-33.md)
 
-[Graphs]()
+[Graphs](401/class-35.md)
 
 [Class 34 Reading Notes]()
 
