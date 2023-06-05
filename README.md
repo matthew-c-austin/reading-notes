@@ -152,15 +152,15 @@ Hello and welcome to my notes. My name is Matt, and I'm excited to become a web 
 
 [Class 33 Reading Notes](401/class-33.md)
 
+[Class 34 Reading Notes](401/class-34.md)
+
 [Graphs](401/class-35.md)
 
-[Class 34 Reading Notes]()
+[Class 36 Reading Notes](401/class-36.md)
 
-[Class 36 Reading Notes]()
+[Class 37 Reading Notes](401/class-37.md)
 
-[Class 37 Reading Notes]()
-
-[Class 39 Reading Notes]()
+[Class 39 Reading Notes](401/class-39.md)
 
 [Class 41 Reading Notes]()
 
