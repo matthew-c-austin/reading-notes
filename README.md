@@ -162,11 +162,11 @@ Hello and welcome to my notes. My name is Matt, and I'm excited to become a web 
 
 [Class 39 Reading Notes](401/class-39.md)
 
-[Class 41 Reading Notes]()
+[Class 41 Reading Notes](401/class-41.md)
 
-[Class 42 Reading Notes]()
+[Class 42 Reading Notes](401/class-42.md)
 
-[Class 42 - Ethics in Tech]()
+[Class 42 - Ethics in Tech](401/ethics-in-tech.md)
 
 [Class 43 Reading Notes]()
 
